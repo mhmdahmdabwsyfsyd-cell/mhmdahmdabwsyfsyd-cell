@@ -50,9 +50,10 @@ Engineered a scalable mobile application serving over 5,000 active users. Implem
 <br/>
 
 ## GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmdahmdabwsyfsyd-cell&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmdahmdabwsyfsyd-cell&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdahmdabwsyfsyd-cell&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
