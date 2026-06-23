@@ -1,63 +1,56 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007EC6&height=200&section=header&text=Mohamed%20Ahmed%20Abosief&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007EC6&height=200&section=header&text=Mohamed%20Ahmed&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=007EC6&width=600&lines=Software+Engineer;Mobile+App+Developer;AI+Engineer;Building+Scalable+Cross-Platform+Solutions" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/coding.gif" width="250" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=007EC6&width=600&lines=Software+Engineer;Mobile+App+Developer;AI+Integration+Expert;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<h2 align="center">About The Developer</h2>
-<p align="center">
-  Dedicated Software Engineer specializing in cross-platform mobile application development and Artificial Intelligence integration. Proficient in building scalable, high-performance applications utilizing Flutter, Dart, and robust architectural patterns. Strong expertise in integrating advanced AI functionalities, including Large Language Models and on-device machine learning, to deliver intelligent and innovative software solutions.
-</p>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhmdahmdabwsyfsyd-cell&theme=dracula&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
+  <h3>Engineering intelligent, scalable, and cross-platform mobile experiences.</h3>
 </div>
 
-<br/>
+<hr/>
 
-<h2>Work Experience</h2>
-<ul>
-  <li><b>Mobile App Developer & AI Engineer (Freelance) | 2025 - Present</b><br/>Architecting full-stack, cross-platform mobile applications utilizing Flutter and Dart, strictly adhering to Clean Architecture and MVVM patterns. Designing backend architectures using Firebase, GCP, Vercel, and Netlify. Integrating Google Gemini API to enhance application capabilities.</li>
-  <li><b>Software Engineering Intern</b><br/>Developing scalable software solutions by applying modern software engineering best practices, agile methodologies, and advanced problem-solving techniques.</li>
-</ul>
+## About Me
+I am a Software Engineer dedicated to crafting high-performance mobile applications using **Flutter and Dart**. With a strong foundation in **Clean Architecture and MVVM**, I focus on building maintainable and scalable codebases. My expertise extends to integrating advanced **Artificial Intelligence**, including Large Language Models and on-device machine learning, to create next-generation software solutions.
 
-<h2>Education & Training</h2>
-<ul>
-  <li><b>Bachelor's Degree in Information Technology (Software)</b> | Beni Suef Technological University (2023-2027)</li>
-  <li><b>Training National Telecommunication Institute (NTI) & ITI</b> | 2026</li>
-</ul>
+## Experience & Education
 
-<h2>Featured Project</h2>
-<ul>
-  <li><b>Zad Almutafaqih Mobile Application</b>: Engineered a scalable backend architecture using Firebase and Google Cloud Platform, enhancing system reliability and reducing server response times by 40%, leading to improved user satisfaction scores among over 5,000 active users.</li>
-</ul>
+*   **Mobile App Developer & AI Engineer** | Netpoint Software Solutions (Apr 2026 - Present)
+    *   Architecting full-stack, cross-platform applications.
+    *   Integrating Google Gemini API and other advanced AI functionalities.
+    *   Designing robust backend architectures utilizing Firebase and GCP.
+*   **Information Technology (Software) - Bachelor's Degree** | Beni Suef Technological University (Expected 2027)
+*   **Technical Training** | National Telecommunication Institute (NTI) & ITI (2026)
+
+## Featured Work: Zad Almutafaqih
+Engineered a scalable mobile application serving over 5,000 active users. Implemented a robust backend architecture using Firebase and Google Cloud Platform, which enhanced system reliability and reduced server response times by 40%. The project showcases a complete integration of UI/UX design, complex state management, and modern AI features.
 
 <br/>
 
-<h2 align="center">Technical Arsenal</h2>
+## Technical Arsenal
+
 <div align="center">
+  <h4>Languages & Core</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,c,cpp,java,python,js,php&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,python,cpp,c,java,js,php&theme=dark" />
   </a>
 </div>
-<br/>
+
 <div align="center">
+  <h4>Cloud, Backend & Tools</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,gcp,vercel,netlify,git,github&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=firebase,gcp,vercel,netlify,git,github&theme=dark" />
   </a>
 </div>
 
 <br/>
 
-<h2 align="center">GitHub Analytics</h2>
+## GitHub Analytics
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mhmdahmdabwsyfsyd-cell&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdahmdabwsyfsyd-cell&theme=tokyonight&hide_border=true" width="48%" />
@@ -65,7 +58,8 @@
 
 <br/>
 
-<h2 align="center">Connect</h2>
+## Let's Connect
+
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-ahmed-0b720938a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://protofolio-mohamed-ahmed.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
