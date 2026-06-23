@@ -17,6 +17,10 @@
   Dedicated Software Engineer specializing in cross-platform mobile application development and Artificial Intelligence integration. Proficient in building scalable, high-performance applications utilizing Flutter, Dart, and robust architectural patterns. Strong expertise in integrating advanced AI functionalities, including Large Language Models and on-device machine learning, to deliver intelligent and innovative software solutions.
 </p>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mhmdahmdabwsyfsyd-cell&theme=dracula&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
+</div>
+
 <br/>
 
 <h2>Work Experience</h2>
