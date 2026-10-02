@@ -346,4 +346,4 @@ Monitoring
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:00B4D8,100:007EC6&height=130&section=footer&animation=twinkling" width="100%"/>
-```
+
