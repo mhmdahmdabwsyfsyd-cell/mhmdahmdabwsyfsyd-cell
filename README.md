@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007EC6,50:00B4D8,100:7B2CBF&height=230&section=header&text=Mohamed%20Ahmed&fontSize=55&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Flutter%20Developer%20%7C%20AI%20Engineer&descAlignY=61&descSize=18"/>
@@ -30,320 +31,185 @@
 
 <div align="center">
 
-## ⚡ Engineering Intelligent & Scalable Experiences
+## Engineering Intelligent & Scalable Experiences
 
-**Software Engineer focused on Flutter, AI, Firebase and modern cloud architectures.**
+**Software Engineer focused on Flutter, Artificial Intelligence, Firebase, and modern cloud architectures.**
 
 Building production-ready applications with a strong focus on:
 
-`Architecture` • `Performance` • `Scalability` • `User Experience` • `Artificial Intelligence`
+`Architecture` • `Performance` • `Scalability` • `User Experience` • `AI Integration`
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-I'm **Mohamed Ahmed**, a Software Engineer specializing in **Flutter & Dart** with a strong interest in Artificial Intelligence, cloud technologies and scalable software architecture.
+I am **Mohamed Ahmed**, a Software Engineer specializing in **Flutter & Dart** with a profound focus on Artificial Intelligence, cloud technologies, and scalable software architecture. 
 
-I enjoy transforming ideas into complete digital products — from **UI/UX and architecture** to backend services, AI integrations, deployment and production monitoring.
+I transform complex technical requirements into complete, high-performance digital products — from UI/UX and system architecture to backend integration, LLM deployments, and production monitoring.
 
 ```text
 Mobile Development
 ├── Flutter
 ├── Dart
-└── Android
+└── Android Native Concepts
 
-Architecture
+Architecture & Design
 ├── Clean Architecture
 ├── MVVM
-├── SOLID
+├── SOLID Principles
 └── Modular Design
 
-Backend & Cloud
-├── Firebase
-├── Google Cloud
-├── REST APIs
-└── Cloud Services
+Backend & Cloud Infrastructure
+├── Firebase (Auth, Firestore, Cloud Functions)
+├── Google Cloud Platform
+├── RESTful APIs
+└── Cloud Messaging
 
 Artificial Intelligence
-├── Google Gemini
-├── LLM Integration
-└── AI-powered Features
+├── Google Gemini API
+├── LLM Workflows & Prompt Engineering
+└── Intelligent Feature Integration
 
-Development
-├── Git
-├── GitHub
-├── CI/CD
-└── Figma
-````
+Development & DevOps
+├── Git & GitHub
+├── CI/CD Pipelines
+└── UI/UX with Figma
+
+```
 
 ---
 
-# 🚀 Experience
+# Experience
 
-### 💼 Mobile App Developer & AI Engineer
+### Mobile App Developer & AI Engineer
 
 **Netpoint Software Solutions**
-
 `April 2026 — Present`
 
-* Building cross-platform mobile applications with Flutter.
-* Designing scalable and maintainable application architectures.
-* Integrating Artificial Intelligence and Large Language Models.
-* Working with Google Gemini APIs.
-* Building backend systems using Firebase and Google Cloud.
-* Developing production-ready software solutions.
-* Optimizing application performance and reliability.
+* Architecting and developing cross-platform mobile applications using Flutter.
+* Integrating Artificial Intelligence and Large Language Models, leveraging Google Gemini APIs.
+* Constructing robust backend infrastructures utilizing Firebase and Google Cloud.
+* Optimizing application performance, state management, and overall system reliability.
+* Ensuring smooth CI/CD deployments and production-level code quality.
 
 ---
 
-# 🎓 Education
+# Education & Training
 
-### Information Technology — Software
+### Information Technology — Software Engineering
 
 **Beni Suef Technological University**
-
 `Expected Graduation: 2027`
 
-### Technical Training
+### Technical Training & Internships
 
-**ITI & NTI**
-
+**ITI, NTI, and UNDP Digital Hub**
 `2026`
 
-Focus:
-
-`Flutter` • `UI/UX` • `Networking` • `Programming` • `Cloud`
+* Focus areas: Flutter Development, UI/UX Engineering, Enterprise Networking, and Cloud Systems.
 
 ---
 
-# ⭐ Featured Project
+# Featured Project
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:007EC6,100:7B2CBF&height=90&text=ZAD%20ALMUTAFAQIH&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
-
-### 📱 زاد المتفقه
+### زاد المتفقه (Zad Almutafaqih)
 
 **Islamic Educational Mobile Application**
 
-</div>
+### Overview
 
-### 🧩 Overview
+A production-grade Flutter application designed to deliver a modern Islamic learning experience. It combines educational content, utility services, seamless notifications, and AI-driven features.
 
-A production Flutter application designed to provide a modern Islamic learning experience through a combination of educational content, Islamic utilities, notifications and intelligent features.
+### Core Technologies
 
-### ⚙️ Core Technologies
+### Highlights
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,gcp&theme=dark"/>
-
-</div>
-
-### 🚀 Highlights
-
-| Feature               | Technology                     |
-| --------------------- | ------------------------------ |
-| 📱 Cross-platform App | Flutter                        |
-| 🧠 AI Features        | Gemini API                     |
-| ☁️ Backend            | Firebase                       |
-| 🔥 Cloud Services     | Google Cloud                   |
-| 🔔 Notifications      | Firebase / Local Notifications |
-| 🕌 Islamic Utilities  | Custom Services                |
-| 🎨 UI/UX              | Flutter + Figma                |
-| 🏗️ Architecture      | Structured / Maintainable      |
-
-<div align="center">
-
-<a href="https://github.com/mhmdahmdabwsyfsyd-cell">
-<img src="https://img.shields.io/badge/Explore%20My%20Projects-007EC6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+| Feature | Technology |
+| --- | --- |
+| Cross-platform App | Flutter |
+| Smart Capabilities | Gemini API |
+| Backend Infrastructure | Firebase |
+| Cloud Services | Google Cloud Platform |
+| Push Notifications | Firebase & Local Notifications |
+| System Architecture | Clean Architecture & MVVM |
+| Interface Design | Figma to Flutter |
 
 ---
 
-# 🛠️ Technical Arsenal
+# Technical Arsenal
 
-<div align="center">
+### Mobile Development
 
-### 📱 Mobile Development
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,android&theme=dark"/>
 
-<br><br>
 
-### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php&theme=dark"/>
+### Programming Languages
 
-<br><br>
 
-### ☁️ Backend & Cloud
 
-<img src="https://skillicons.dev/icons?i=firebase,gcp,vercel,netlify&theme=dark"/>
 
-<br><br>
 
-### ⚙️ Tools & Development
+### Backend & Cloud
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark"/>
 
-</div>
+
+
+
+### Tools & Development
 
 ---
 
-# 🧠 Engineering Principles
+# Engineering Principles
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-### 🏗️ Architecture
+### Architecture
 
 Clean Architecture
-MVVM
-SOLID
-Modular Design
+MVVM Pattern
+SOLID Principles
+Modular Codebase
 
-</td>
+### Performance
 
-<td align="center">
+Asynchronous Operations
+Advanced Caching
+Optimized Render Trees
+Efficient State Management
 
-### ⚡ Performance
+### Reliability
 
-Async Operations
-Caching
-Optimized UI
-Efficient State
-
-</td>
-
-<td align="center">
-
-### 🔐 Reliability
-
-Error Handling
-Secure APIs
-Validation
-Monitoring
-
-</td>
-</tr>
-</table>
-
-</div>
+Strict Error Handling
+Secure API Communication
+Data Validation
+Production Monitoring
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mhmdahmdabwsyfsyd-cell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=007EC6&text_color=FFFFFF" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdahmdabwsyfsyd-cell&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=007EC6&currStreakLabel=00B4D8" width="49%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdahmdabwsyfsyd-cell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF" width="45%"/>
-
-</div>
+# GitHub Analytics
 
 ---
 
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mhmdahmdabwsyfsyd-cell/mhmdahmdabwsyfsyd-cell/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
+# Contribution Activity
 
 ---
 
-# 🎯 Currently Building
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">📱</td>
-<td><b>Advanced Flutter Applications</b></td>
-</tr>
-
-<tr>
-<td align="center">🤖</td>
-<td><b>AI-Powered Mobile Experiences</b></td>
-</tr>
-
-<tr>
-<td align="center">☁️</td>
-<td><b>Scalable Firebase & Cloud Architectures</b></td>
-</tr>
-
-<tr>
-<td align="center">🧠</td>
-<td><b>Intelligent Software Solutions</b></td>
-</tr>
-
-</table>
-
-</div>
+# Currently Building
 
 ---
 
-# 📈 Development Philosophy
-
-<div align="center">
+# Development Philosophy
 
 > **Build it clean.**
->
 > **Make it scalable.**
->
 > **Keep it reliable.**
->
 > **Make technology useful.**
-
-</div>
 
 ---
 
-# 🌐 Let's Connect
+# Let's Connect
 
-<div align="center">
+### Thanks for visiting my profile
 
-<a href="https://www.linkedin.com/in/mohamed-ahmed-0b720938a">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://protofolio-mohamed-ahmed.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:mhmdahmdabwsyfsyd@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Thanks for visiting my profile 👋
-
-**Let's build something meaningful.**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:00B4D8,100:007EC6&height=130&section=footer&animation=twinkling" width="100%"/>
-
+**Let's build something meaningful.
